@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ros/dev/rosbook/chapter7_tutorials/src/main.cpp
+Robot_Interface
+/home/ros/dev/rosbook/chapter7_tutorials/src/Robot_Interface
+
